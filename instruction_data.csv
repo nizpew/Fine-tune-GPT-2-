@@ -1,0 +1,220 @@
+text
+"User: create a task called homework
+Assistant:
+Got it! Here's your task for finishing your homework.
+[TASK: Finish homework | TIME: 14:30]"
+"User: create ways for me to help my dog
+Assistant:
+Here are some actionable tasks to help take care of your dog:
+
+[TASK: Take dog for a walk | TIME: 08:00]
+[TASK: Schedule a vet appointment | TIME: 10:00]
+[TASK: Buy dog food and treats | TIME: 15:00]
+[TASK: Play fetch in the backyard | TIME: 17:00]
+[TASK: Research dog training classes | TIME: 19:00]
+
+These tasks will help ensure your dog stays healthy, happy, and well-cared for. Let me know if you need more suggestions!"
+"User: remind me to call mom
+Assistant:
+Okay! I set a reminder to call your mom.
+[TASK: Call mom | TIME: 19:00]"
+"User: schedule a meeting with the team
+Assistant:
+Meeting scheduled with your team.
+[TASK: Team meeting | TIME: 11:00]"
+"User: create a task to water the plants
+Assistant:
+Plants need watering! Task created.
+[TASK: Water plants | TIME: 08:00]"
+"User: add task to finish project report
+Assistant:
+Project report task added.
+[TASK: Finish project report | TIME: 16:00]"
+"User: remind me about my workout
+Assistant:
+Workout reminder set!
+[TASK: Workout | TIME: 07:00]"
+"User: create a task called dentist appointment
+Assistant:
+Dentist appointment task is on the list.
+[TASK: Dentist appointment | TIME: 10:30]"
+"User: schedule a lunch with Sarah
+Assistant:
+Lunch with Sarah scheduled.
+[TASK: Lunch with Sarah | TIME: 12:30]"
+"User: create a professional profile to-do list
+Assistant:
+Here is a to-do list to build a professional profile:
+
+[TASK: Choose a professional profile picture | TIME: 10:00]
+[TASK: Write a clear and attractive description about yourself | TIME: 30:00]
+[TASK: List relevant skills and experiences | TIME: 20:00]
+[TASK: Add previous jobs and portfolio | TIME: 40:00]
+[TASK: Set your service rates | TIME: 15:00]
+
+Let me know if you want me to help with any of these tasks!"
+"User: organize my current tasks
+Assistant:
+Here are your current tasks in progress:
+
+[TASK: Improve CV for beginners and save with update date | TIME: 45:00]
+[TASK: Send CV to freelance accounts | TIME: 30:00]
+[TASK: Translate CV - 30 min | TIME: 22:00]
+
+Keep up the good work! Let me know if you want help scheduling these."
+"User: add a task for grocery shopping
+Assistant:
+Done! Added a grocery shopping task for you.
+[TASK: Grocery shopping | TIME: 17:00]"
+"User: create a task called clean the house
+Assistant:
+Got it! Added a cleaning task.
+[TASK: Clean the house | TIME: 14:00]"
+"User: remind me to pay the electricity bill
+Assistant:
+Reminder set to pay the electricity bill.
+[TASK: Pay electricity bill | TIME: 09:00]"
+"User: create a task to finish reading the book
+Assistant:
+Task created for finishing your book.
+[TASK: Finish reading book | TIME: 20:00]"
+"User: schedule a call with John
+Assistant:
+Call with John scheduled.
+[TASK: Call John | TIME: 16:00]"
+"User: add a reminder for dentist checkup
+Assistant:
+Dentist checkup reminder set.
+[TASK: Dentist checkup | TIME: 11:00]"
+"User: create a shopping list
+Assistant:
+Here's your shopping list task.
+[TASK: Buy groceries | TIME: 18:00]"
+"User: create a task called gym workout
+Assistant:
+Workout task added.
+[TASK: Gym workout | TIME: 07:00]"
+"User: remind me to feed the cat
+Assistant:
+Reminder set to feed the cat.
+[TASK: Feed the cat | TIME: 08:00]"
+"User: create a task for laundry
+Assistant:
+Laundry task added.
+[TASK: Do laundry | TIME: 13:00]"
+"User: schedule a meeting with the manager
+Assistant:
+Meeting with the manager scheduled.
+[TASK: Manager meeting | TIME: 15:00]"
+"User: add a task for car maintenance
+Assistant:
+Car maintenance task added.
+[TASK: Car maintenance | TIME: 10:00]"
+"User: create a task called finish presentation
+Assistant:
+Presentation task added.
+[TASK: Finish presentation | TIME: 17:30]"
+"User: remind me to take medicine
+Assistant:
+Medicine reminder set.
+[TASK: Take medicine | TIME: 21:00]"
+"User: create a task to update resume
+Assistant:
+Resume update task added.
+[TASK: Update resume | TIME: 12:00]"
+"User: schedule a lunch with team
+Assistant:
+Team lunch scheduled.
+[TASK: Lunch with team | TIME: 13:00]"
+"User: add a reminder for water plants
+Assistant:
+Water plants reminder set.
+[TASK: Water plants | TIME: 09:00]"
+"User: create a task called book flight
+Assistant:
+Flight booking task added.
+[TASK: Book flight | TIME: 14:00]"
+"User: remind me to call grandma
+Assistant:
+Reminder set to call grandma.
+[TASK: Call grandma | TIME: 18:00]"
+"User: create a task to clean garage
+Assistant:
+Garage cleaning task added.
+[TASK: Clean garage | TIME: 16:00]"
+"User: schedule a doctor's appointment
+Assistant:
+Doctor's appointment scheduled.
+[TASK: Doctor appointment | TIME: 09:30]"
+"User: add a task for grocery pickup
+Assistant:
+Grocery pickup task added.
+[TASK: Grocery pickup | TIME: 11:00]"
+"User: create a task called pay credit card bill
+Assistant:
+Credit card bill payment task added.
+[TASK: Pay credit card bill | TIME: 10:00]"
+"User: remind me to prepare presentation
+Assistant:
+Presentation prep reminder set.
+[TASK: Prepare presentation | TIME: 19:00]"
+"User: create a task for car wash
+Assistant:
+Car wash task added.
+[TASK: Car wash | TIME: 15:00]"
+"User: schedule a meeting with HR
+Assistant:
+Meeting with HR scheduled.
+[TASK: HR meeting | TIME: 14:00]"
+"User: add a reminder to submit report
+Assistant:
+Report submission reminder set.
+[TASK: Submit report | TIME: 17:00]"
+"User: create a task called renew passport
+Assistant:
+Passport renewal task added.
+[TASK: Renew passport | TIME: 11:00]"
+"User: remind me to water the garden
+Assistant:
+Garden watering reminder set.
+[TASK: Water garden | TIME: 07:00]"
+"User: create a task to backup files
+Assistant:
+Backup files task added.
+[TASK: Backup files | TIME: 20:00]"
+"User: schedule a lunch meeting with client
+Assistant:
+Lunch meeting with client scheduled.
+[TASK: Lunch with client | TIME: 12:30]"
+"User: add a task for weekly cleaning
+Assistant:
+Weekly cleaning task added.
+[TASK: Weekly cleaning | TIME: 10:00]"
+"User: create a task called plan birthday party
+Assistant:
+Birthday party planning task added.
+[TASK: Plan birthday party | TIME: 16:00]"
+"User: remind me to check emails
+Assistant:
+Email checking reminder set.
+[TASK: Check emails | TIME: 08:30]"
+"User: create a task to organize files
+Assistant:
+File organization task added.
+[TASK: Organize files | TIME: 13:00]"
+"User: schedule a workout session
+Assistant:
+Workout session scheduled.
+[TASK: Workout session | TIME: 06:30]"
+"User: add a reminder for team meeting
+Assistant:
+Team meeting reminder set.
+[TASK: Team meeting | TIME: 15:30]"
+"User: create a task called send invoices
+Assistant:
+Invoice sending task added.
+[TASK: Send invoices | TIME: 17:30]"
+"User: remind me to prepare dinner
+Assistant:
+Dinner prep reminder set.
+[TASK: Prepare dinner | TIME: 18:30]"
