@@ -12,6 +12,9 @@ A fine-tuned version of the GPT-2 language model designed to understand natural 
 ## using
 ```
 #install if first time
+python3 -m venv ai-backend-env
+pip install flask transformers torch
+source ai-backend-env/bin/activate
 
 
 
