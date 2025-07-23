@@ -6,6 +6,27 @@ This project showcases a hands-on implementation of fine-tuning GPT-2 for a natu
 
 A fine-tuned version of the GPT-2 language model designed to understand natural language prompts and generate structured task descriptions — complete with task names and appropriate execution times — ideal for productivity tools, virtual assistants, and smart reminders.
 
+
+
+
+## using
+```
+#install if first time
+
+
+
+#if not just 
+source ai-backend-env/bin/activate
+
+curl -X POST http://localhost:5000/generate \
+     -H "Content-Type: application/json" \
+     -d '{"prompt": "Create a task for me to go to the dentist"}'
+
+#"response": "Dentist appointment task added.\n[TASK: Dentist appointment | TIME: 10:00]"
+```
+
+
+
 ---
 
 ## 📌 Project Description
